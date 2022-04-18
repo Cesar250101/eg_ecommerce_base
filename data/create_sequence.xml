@@ -1,0 +1,8 @@
+<odoo>
+    <record model="ir.sequence" id="create_sequence_for_ecom_history">
+        <field name="name">eCom Integration</field>
+        <field name="code">eg.ecom.history</field>
+        <field name="prefix">ECH</field>
+        <field name="padding">4</field>
+    </record>
+</odoo>

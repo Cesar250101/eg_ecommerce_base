@@ -1,0 +1,12 @@
+<odoo>
+    <record model="ir.ui.view" id="account_invoice_ecom_form_view">
+        <field name="name">account.invoice.ecom.form.view</field>
+        <field name="model">account.invoice</field>
+        <field name="inherit_id" ref="account.invoice_form"/>
+        <field name="arch" type="xml">
+            <xpath expr="//field[@name='date_due']" position="after">
+                <field name="eg_account_journal_id"/>
+            </xpath>
+        </field>
+    </record>
+</odoo>
