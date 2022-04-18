@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <odoo>
     <record model="ir.cron" id="test_connection_ecommerce_cron">
         <field name="name">Test Connection eCommerce</field>

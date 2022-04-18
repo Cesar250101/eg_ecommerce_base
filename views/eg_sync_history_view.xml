@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <odoo>
     <record model="ir.ui.view" id="eg_sync_history_tree_view">
         <field name="name">eg.sync.history.tree.view</field>

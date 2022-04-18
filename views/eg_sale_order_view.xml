@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <odoo>
     <record model="ir.ui.view" id="eg_sale_order_tree_view">
         <field name="name">eg.sale.order.tree.view</field>
