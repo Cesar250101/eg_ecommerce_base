@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from . import eg_ecom_instance
 from . import eg_product_template
 from . import eg_product_attribute
